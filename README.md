@@ -1,4 +1,5 @@
 hello-word
 ==========
 
-Just for me
+Hi to all
+this is just practicing for project
